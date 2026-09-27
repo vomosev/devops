@@ -60,3 +60,6 @@ certs/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Added by install_backend.js — the deploy writes real secrets into .env
+node_modules
